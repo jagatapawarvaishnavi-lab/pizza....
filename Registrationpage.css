@@ -1,0 +1,30 @@
+body{
+    background-image: url(photo3.jfif);
+    background-repeat: no-repeat;
+    background-size: 1500px 800px;
+}
+h1{
+    color: darkgoldenrod;
+    font-size: 65px;
+}
+label{
+    color: antiquewhite;
+    font-size: 25px;
+    font-weight: bold;
+}
+input{
+    height: 30px;
+    width: 300px;
+}
+button{
+    height: 60px;
+    width: 200px;
+    color: red;
+    font-size: 30px;
+    border-radius: 25px;
+    font-weight: bold;
+}
+p{
+    color: burlywood;
+    font-size: 30px;
+}

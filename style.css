@@ -1,0 +1,23 @@
+body{
+    background-image: url(pizza2.webp);
+    background-repeat: no-repeat;
+    background-size: 1500px 600px;
+}
+h1,h2{
+      color: azure;
+      font-size: 40px;
+      margin-left: 500px;
+      
+}
+button{
+    height: 50px;
+    width: 180px;
+    color: red;
+    font-size: 20px;
+    border-radius: 15px;
+    font-weight: bold;
+    
+}
+#t1{
+    margin-left: 500px;
+}
